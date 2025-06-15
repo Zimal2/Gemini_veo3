@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "./code2.mjs",
+            "use": "@vercel/node"
+        }
+    ]
+}
